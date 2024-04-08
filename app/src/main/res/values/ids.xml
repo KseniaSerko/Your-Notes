@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <item name="addNoteFAB" type="id">addNoteFAB</item>-->
+<!--    <item name="homeRecyclerView" type="id">homeRecyclerView</item>-->
+<!--    <item name="searchMenu" type="id">searchMenu</item>-->
+<!--    <item name="saveMenu" type="id">saveMenu</item>-->
+<!--    <item name="deleteMenu" type="id">deleteMenu</item>-->
+<!--    <item name="addNoteTitle" type="id">addNoteTitle</item>-->
+<!--    <item name="addNoteDescription" type="id">addNoteDescription</item>-->
+<!--    <item name="editNoteHeading" type="id">editNoteHeading</item>-->
+<!--    <item name="editNoteTitle" type="id">editNoteTitle</item>-->
+<!--    <item name="editNoteDescription" type="id">editNoteDescription</item>-->
+<!--    <item name="noteTitle" type="id">noteTitle</item>-->
+<!--    <item name="noteDescription" type="id">noteDescription</item>-->
+<!--    <item name="fragmentContainerView" type="id">fragmentContainerView</item>-->
+<!--    <item name="editNoteDesc" type="id">editNoteDesc</item>-->
+<!--    <item name="editNoteFab" type="id">editNoteFab</item>-->
+<!--    <item name="editNoteFAB" type="id">editNoteFAB</item>-->
+</resources>

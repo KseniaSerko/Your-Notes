@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Your Notes</string>
+    <string name="search">Search</string>
+    <string name="save">Save</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="add_your_note">Add Your Note</string>
+    <string name="enter_the_title">Enter the title</string>
+    <string name="enter_the_description">Enter the description</string>
+    <string name="edit_your_note">Edit Your Note</string>
+    <string name="editfab">editFloatingActionButton</string>
+    <string name="note_title">Note Title</string>
+    <string name="description">Description</string>
+    <string name="image">image</string>
+    <string name="editFab">editFab\n</string>
+</resources>
